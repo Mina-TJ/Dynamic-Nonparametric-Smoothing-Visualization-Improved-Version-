@@ -1,2 +1,2 @@
-# Dynamic-Nonparametric-Smoothing-Visualization-Improved-Version-
+# Dynamic-Nonparametric-Smoothing-Visualization-Improved-Version-Course Assignment
 An interactive R Shiny app demonstrating nonparametric smoothing techniques through animated visualization. Compare moving average, median, trimmed mean, kernel smoothing, and local regression methods with real-time performance metrics and residual analysis.
